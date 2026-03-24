@@ -19,7 +19,7 @@
 - 👨‍💻 All of my projects are available on [My GitHub](https://github.com/shubham-031)
 - 💬 Ask me about *React, Node.js, MongoDB, Express.js, APIs, Machine Learning*
 - 📧 Reach me at *shubhamajadhav200@gmail.com*
-- 📄 View my resume [here](https://drive.google.com/file/d/1DhSH-hnOltNFhR7nvah2aLtoZbLYrjYF/view?usp=sharing)
+
 
 ---
 
