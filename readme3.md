@@ -216,4 +216,326 @@ I enjoy building scalable applications that solve real-world problems through mo
 
 </table>
 
+# 💼 Professional Experience
+
+<table>
+
+<tr>
+<th width="25%">Company</th>
+<th>Details</th>
+</tr>
+
+<tr>
+
+<td>
+
+### 🚀 Fluid Controls Pvt. Ltd.
+
+**Software Engineer Intern**
+
+📍 Pune, India
+
+🗓️ Nov 2025 – May 2026
+
+</td>
+
+<td>
+
+### Enterprise Sales Enquiry & KPI Dashboard
+
+✔ Developed a **Production-Ready MERN Platform** used by **500+ employees**
+
+✔ Built secure **Role-Based Access Control (JWT)** for **5+ organizational roles**
+
+✔ Developed **Excel Import / Export Automation**
+
+✔ Reduced manual work by **80%**
+
+✔ Improved reporting accuracy by **50%**
+
+✔ Built scalable REST APIs using **Node.js & Express.js**
+
+✔ Developed interactive **Power BI-style KPI Dashboards**
+
+#### Tech Stack
+
+React • Node.js • Express • MongoDB • JWT • REST APIs • Git
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🚀 Featured Projects
+
+## 💰 Smart Financial Advisor Platform
+
+<table>
+
+<tr>
+
+<td width="30%">
+
+### 🚀 Highlights
+
+🤖 AI Financial Advisor
+
+📄 OCR Receipt Scanner
+
+🎙 Voice Navigation
+
+💳 Expense Tracker
+
+📊 Financial Dashboard
+
+🏦 Government Schemes
+
+🎮 Gamified Learning
+
+💬 Community Forum
+
+</td>
+
+<td width="40%">
+
+### 🛠 Tech Stack
+
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- Tailwind CSS
+- Socket.io
+- JWT
+- Google OAuth
+- LLM
+- RAG
+
+</td>
+
+<td width="30%">
+
+### 🔗 Links
+
+🟢 Live Demo
+
+🔗 https://financial-advisior.vercel.app/
+
+💻 GitHub
+
+https://github.com/shubham-031
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+## 🤖 AI Powered Placement Preparation Platform
+
+<table>
+
+<tr>
+
+<td width="30%">
+
+### Features
+
+🤖 AI Mock Interview
+
+📄 Resume Analyzer
+
+📊 ATS Score
+
+🧠 Career Roadmap
+
+💬 AI Chatbot
+
+🎙 Voice Interview
+
+🏆 Company Preparation
+
+</td>
+
+<td width="40%">
+
+### Tech Stack
+
+- React.js
+
+- Node.js
+
+- MongoDB
+
+- Tailwind CSS
+
+- Socket.io
+
+- JWT
+
+- LLM
+
+- RAG
+
+</td>
+
+<td width="30%">
+
+### Status
+
+🚧 Currently Building
+
+Live Demo
+
+Coming Soon
+
+GitHub
+
+Private Repository
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+## 📊 Enterprise Sales & KPI Dashboard
+
+<table>
+
+<tr>
+
+<td width="30%">
+
+### Features
+
+✔ Sales Enquiry Tracking
+
+✔ KPI Dashboard
+
+✔ NPD Tracking
+
+✔ Excel Automation
+
+✔ Department Workflow
+
+✔ RBAC
+
+</td>
+
+<td width="40%">
+
+### Tech Stack
+
+React.js
+
+Node.js
+
+Express.js
+
+MongoDB
+
+JWT
+
+Power BI Style Charts
+
+</td>
+
+<td width="30%">
+
+### Impact
+
+👥 500+ Users
+
+📈 80% Manual Work Reduced
+
+⚡ Faster Reporting
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+## 🎬 CineBook
+
+<table>
+
+<tr>
+
+<td width="30%">
+
+### Features
+
+🎟 Movie Booking
+
+🪑 Seat Selection
+
+📄 PDF Ticket
+
+📱 QR Ticket
+
+🍿 Snacks
+
+🚗 Parking
+
+📊 Admin Dashboard
+
+</td>
+
+<td width="40%">
+
+### Tech Stack
+
+React.js
+
+Node.js
+
+Express.js
+
+MongoDB Atlas
+
+Tailwind CSS
+
+</td>
+
+<td width="30%">
+
+### Status
+
+✅ Completed
+
+Full Stack MERN
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<div align="center">
+
+## 🌐 Explore More Projects
+
+<a href="https://shubham-portfolio-wheat-five.vercel.app">
+
+<img src="https://img.shields.io/badge/Visit%20My%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+
+</a>
+
+</div>
+
+---
+
 ---
