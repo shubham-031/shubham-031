@@ -2,11 +2,12 @@
 <h3 align="center">A passionate full-stack web developer and AI enthusiast from Pune </h3>
 
 
-
 <p align="center">
-  <a href="https://github.com/shubham-031">
-    <img src="https://raw.githubusercontent.com/shubham-031/shubham-031/main/coding.gif" alt="MasterHead" />
-  </a>
+  <img
+    src="https://raw.githubusercontent.com/shubham-031/shubham-031/main/coding.gif"
+    alt="Coding"
+    width="100%"
+  />
 </p>
 
 
