@@ -1,3 +1,5 @@
+
+
 <!-- <h1 align="center">Hi 👋, I'm Shubham Jadhav</h1>
 <h3 align="center">A passionate full-stack web developer and AI enthusiast from Pune </h3>
 
@@ -9,50 +11,6 @@
     width="100%"
   />
 </p>
-
-
-
-
-
----
-
-- 🔭 I’m currently working on *Social Media Ai Powered Platform *
-- 🌟 I’m currently learning *Full Stack Development, Artificial Intelligence, and Machine Learning*
-- 👯‍♂ I’m looking to collaborate on *Financial Advisor Platform*
-- 🤝 I’m looking for help with * Job Portal Platform*
-- 👨‍💻 All of my projects are available on [My GitHub](https://github.com/shubham-031)
-- 💬 Ask me about *React, Node.js, MongoDB, Express.js, APIs, Machine Learning*
-- 📧 Reach me at *shubhamajadhav200@gmail.com*
-
-
----
-
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/173CPmJ5jj/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/shub_ham031?igsh=MXNvMm12aG5jb3FqcA==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shubham-jadhav-7581692a9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Shub_ham031?t=odp7uDKSInS_yiOO0VR_iA&s=09) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@shubhamjadhav8945) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shubhamajadhav200@gmail.com) 
-
-<!-- Snake Game Repo View -->
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!--
-**shubham-2005-maker/shubham-2005-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---> -->
-
-
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2EA3F7&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Shubham+Jadhav+%F0%9F%91%8B;Software+Engineer+%7C+MERN+%2B+AI%2FLLM+Developer;National-Level+Hackathon+Winner+%F0%9F%8F%86;Building+Production-Ready+AI-Powered+Apps" alt="Typing SVG" />
@@ -217,8 +175,9 @@ Full-stack MERN ticketing system with interactive seat selection, QR-based e-tic
 </div>
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=shubham-031&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
 
