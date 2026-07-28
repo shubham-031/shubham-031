@@ -1,21 +1,14 @@
 <div align="center">
 
-<h1>Hi 👋, I'm Shubham Jadhav</h1>
+# Hi 👋, I'm **Shubham Jadhav**
 
-<h3>
-Software Engineer • Full Stack MERN Developer • AI & LLM Enthusiast
-</h3>
+### 🚀 Software Engineer • Full Stack MERN Developer • AI & LLM Enthusiast
 
-<p>
-Passionate about building scalable AI-powered applications, solving real-world problems,
-and creating production-ready software using modern web technologies.
-</p>
+<img src="https://raw.githubusercontent.com/shubham-031/shubham-031/main/coding.gif" width="100%" alt="Coding Banner"/>
 
-<img src="https://raw.githubusercontent.com/shubham-031/shubham-031/main/coding.gif" width="100%" />
+<br>
 
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Software+Engineer;Full+Stack+MERN+Developer;AI+%7C+LLM+Developer;National+Level+Hackathon+Winner;300%2B+LeetCode+Problems;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&center=true&vCenter=true&width=750&color=00C2FF&lines=Software+Engineer;Full+Stack+MERN+Developer;AI+%7C+LLM+Developer;National+Level+Hackathon+Winner;300%2B+LeetCode+Problems;Building+Production+Ready+Applications"/>
 
 <br><br>
 
@@ -27,7 +20,7 @@ and creating production-ready software using modern web technologies.
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://shubham-portfolio-wheat-five.vercel.app/">
+<a href="https://shubham-portfolio-wheat-five.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-00C2FF?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
@@ -41,7 +34,7 @@ and creating production-ready software using modern web technologies.
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=shubham-031&label=Profile+Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=shubham-031&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
 
@@ -49,526 +42,178 @@ and creating production-ready software using modern web technologies.
 
 # 👨‍💻 About Me
 
-I'm a passionate **Software Engineer** from **Pune, India** with strong foundations in **Data Structures & Algorithms (C++)**, **Full Stack MERN Development**, and **Artificial Intelligence**.
+<table>
 
-I enjoy designing scalable web applications, integrating AI into real-world products, and solving challenging engineering problems.
+<tr>
 
----
+<td width="65%">
 
-## 🚀 Current Focus
+I'm a passionate **Software Engineer** specializing in **Full Stack MERN Development**, **Artificial Intelligence**, and **Large Language Models (LLMs)**.
 
-- 🔭 Building AI Powered Placement Preparation Platform
+I enjoy building scalable applications that solve real-world problems through modern software engineering and AI.
 
-- 🌱 Learning
-  - System Design
-  - Kubernetes
-  - AWS Cloud
-  - Large Language Models (LLMs)
-  - Retrieval Augmented Generation (RAG)
+- 🚀 Software Engineer Intern @ Fluid Controls Pvt. Ltd.
+- 💻 Strong in Data Structures & Algorithms (C++)
+- 🤖 AI | LLM | RAG Developer
+- 🌐 Full Stack MERN Developer
+- 🏆 National Level Hackathon Winner
+- 🎯 Solved 300+ LeetCode Problems
+- 📍 Pune, Maharashtra, India
 
-- 👯 Looking to collaborate on
-  - Open Source Projects
-  - AI Applications
-  - MERN Stack Projects
+</td>
 
-- 💬 Ask me about
-  - React.js
-  - Node.js
-  - Express.js
-  - MongoDB
-  - REST APIs
-  - JWT Authentication
-  - Socket.io
-  - AI & LLM Applications
-  - Data Structures & Algorithms
+<td align="center">
 
-- 📫 Email
-  - **shubhamajadhav200@gmail.com**
+<img src="https://github-readme-stats.vercel.app/api?username=shubham-031&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-- ⚡ Fun Fact
-  - I love building products that solve real-world problems.
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-# 🎓 Education
+# 🚀 Professional Summary
 
-| Degree | Institute | Year |
-|----------|-----------|------|
-| B.Tech Computer Science (Artificial Intelligence) | Vishwakarma Institute of Information Technology, Pune | 2023 – 2027 |
+<table>
 
-### Academic Highlights
+<tr>
 
-🎓 CGPA **9.09**
+<th>Role</th>
 
-🏆 Class X - **96%**
+<th>Details</th>
 
-🏆 Class XII - **80.67%**
+</tr>
 
-📈 CET - **97.74 Percentile**
+<tr>
 
+<td>💼 Current Position</td>
 
----
+<td>Software Engineer Intern</td>
 
-# 💼 Industry Experience
+</tr>
 
-## 🚀 Software Engineer Intern | Fluid Controls Pvt. Ltd., Pune
+<tr>
 
-📅 **Nov 2025 – May 2026**
+<td>🏢 Company</td>
 
-### 🔥 Highlights
+<td>Fluid Controls Pvt. Ltd., Pune</td>
 
-- Developed a **Production-Ready MERN Stack Platform** used by **500+ users** across multiple departments.
+</tr>
 
-- Built secure **Role-Based Access Control (RBAC)** with JWT Authentication for **5+ organizational roles**.
+<tr>
 
-- Developed **Excel Import / Export Automation** with relational data mapping, validation pipelines, and bulk processing.
+<td>🎓 Education</td>
 
-- Reduced manual effort by **80%** while improving reporting accuracy by **50%**.
+<td>B.Tech Computer Science (Artificial Intelligence)</td>
 
-- Designed interactive **Power BI-style KPI Dashboards** for real-time reporting and business analytics.
+</tr>
 
-- Built scalable REST APIs using **Node.js**, **Express.js**, and **MongoDB**.
+<tr>
 
-### ⚙️ Tech Stack
+<td>🏫 College</td>
 
-<p>
+<td>Vishwakarma Institute of Information Technology</td>
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,javascript,git,github,postman"/>
+</tr>
 
-</p>
+<tr>
 
----
+<td>📈 CGPA</td>
 
-# 🚀 Featured Projects
+<td>9.09</td>
 
-## 💰 Smart Financial Advisor Platform
+</tr>
 
-### 🌟 Overview
+<tr>
 
-AI-powered financial management platform integrating modern technologies to improve financial literacy.
+<td>📍 Location</td>
 
-### ✨ Features
+<td>Pune, Maharashtra</td>
 
-- 🤖 AI Financial Chatbot using LLM + RAG
-- 🎙 Voice Navigation
-- 📄 OCR Receipt Scanner
-- 💳 Expense Tracking
-- 📈 Financial Calculators
-- 🏦 Government Scheme Discovery
-- 👥 Community Discussion Forum
-- 🎮 Gamified Learning Modules
-- 🔐 Google OAuth Authentication
-- 🔑 JWT Authentication
-- ⚡ Socket.io Real-time Communication
+</tr>
 
-### 🛠 Tech Stack
+<tr>
 
-`React.js`
-`Node.js`
-`Express.js`
-`MongoDB`
-`Socket.io`
-`Tailwind CSS`
-`JWT`
-`LLM`
-`RAG`
+<td>💻 Core Skills</td>
 
-### 🔗 Links
+<td>MERN • AI • LLM • RAG • DSA • REST APIs</td>
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge)](https://financial-advisior.vercel.app/)
+</tr>
 
-[![GitHub](https://img.shields.io/badge/Source-Code-black?style=for-the-badge&logo=github)](https://github.com/shubham-031)
+<tr>
+
+<td>🏆 Achievement</td>
+
+<td>National Level Hackathon Winner</td>
+
+</tr>
+
+<tr>
+
+<td>🔥 LeetCode</td>
+
+<td>300+ Problems Solved</td>
+
+</tr>
+
+</table>
 
 ---
 
-## 🎯 AI Powered Placement Preparation Platform (Placify)
+# 🌱 Current Focus
 
-### 🌟 Overview
+<table>
 
-AI-powered placement preparation ecosystem helping students prepare for Technical, HR, and Behavioral Interviews.
+<tr>
 
-### ✨ Features
+<th>Area</th>
 
-- 🤖 AI Mock Interview
-- 📄 Resume Analyzer
-- 📊 ATS Score Checker
-- 🧠 Career Roadmap Generator
-- 💬 Career Guidance Chatbot
-- 🎤 Voice Interview
-- 📚 Personalized Learning Roadmap
-- 🏆 Company-wise Preparation
+<th>Status</th>
 
-### 🛠 Tech Stack
+</tr>
 
-`React.js`
-`Node.js`
-`MongoDB`
-`Socket.io`
-`Tailwind CSS`
-`JWT`
-`LLM`
-`RAG`
+<tr>
 
-### 🔗 Links
+<td>🔭 Building</td>
 
-[![Coming Soon](https://img.shields.io/badge/Live-Coming%20Soon-blue?style=for-the-badge)]()
+<td>AI Powered Placement Preparation Platform</td>
 
-[![GitHub](https://img.shields.io/badge/Source-Code-black?style=for-the-badge&logo=github)](https://github.com/shubham-031)
+</tr>
 
----
+<tr>
 
-## 📊 Enterprise Sales & NPD Management Platform
+<td>🤖 Learning</td>
 
-### 🌟 Overview
+<td>System Design • Kubernetes • AWS • LLMs • Agentic AI</td>
 
-Enterprise-grade centralized workflow management platform developed during internship.
+</tr>
 
-### ✨ Features
+<tr>
 
-- Sales Enquiry Tracking
-- NPD Workflow
-- KPI Dashboard
-- Excel Automation
-- Department Management
-- Role Based Access Control
-- Analytics Dashboard
+<td>🤝 Collaboration</td>
 
-### 👥 Users
+<td>Open Source • MERN • AI Projects</td>
 
-**500+ Active Users**
+</tr>
 
-### 🛠 Tech Stack
+<tr>
 
-`React.js`
+<td>💬 Ask Me About</td>
 
-`Node.js`
+<td>React • Node • MongoDB • Express • JWT • AI • DSA</td>
 
-`Express.js`
+</tr>
 
-`MongoDB`
+<tr>
 
-`JWT`
+<td>📫 Email</td>
+
+<td>shubhamajadhav200@gmail.com</td>
+
+</tr>
+
+</table>
 
 ---
-
-## 🎬 CineBook
-
-Movie Ticket Booking & Theatre Management System
-
-### ✨ Features
-
-- 🎟 Movie Ticket Booking
-- 🪑 Live Seat Selection
-- 📱 QR Tickets
-- 📄 PDF Tickets
-- 🍿 Snacks Booking
-- 🚗 Parking Reservation
-- 📊 Admin Dashboard
-- 📈 Revenue Analytics
-
-### 🛠 Tech Stack
-
-React.js
-
-Node.js
-
-Express.js
-
-MongoDB Atlas
-
-Tailwind CSS
-
----
-
-## 🌐 Explore More Projects
-
-<p align="center">
-
-<a href="https://shubham-portfolio-wheat-five.vercel.app">
-
-<img src="https://img.shields.io/badge/Visit-My%20Portfolio-00C2FF?style=for-the-badge&logo=vercel"/>
-
-</a>
-
-</p>
-
----
-
-
-# 🏆 Achievements
-
-<div align="center">
-
-🥇 **1st Place Winner** — Kurukshetra National Hackathon (300+ Teams)
-
-🥈 **Runner-Up** — Webverse Hackathon, VIT Pune (250+ Teams)
-
-🏅 **Top 5 Finalist** — InnoHack 2.0 (300+ Teams)
-
-💻 **Solved 300+ LeetCode Problems**
-
-📄 **Published IEEE Research Paper**
-
-🚀 **Software Engineer Intern @ Fluid Controls Pvt. Ltd.**
-
-</div>
-
----
-
-# 📜 Certifications
-
-- ✅ IBM Full Stack Software Developer – Coursera
-- ✅ AWS Developer Associate Preparation
-- ✅ Microsoft Project Management Essentials
-- ✅ Cisco CCNAv7 Networking
-- ✅ CDAC Artificial Intelligence Bootcamp
-
----
-
-# 💻 Tech Stack
-
-## 👨‍💻 Programming Languages
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=cpp,c,python,java,javascript,html,css"/>
-
-</p>
-
----
-
-## 🎨 Frontend Development
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,bootstrap,materialui"/>
-
-</p>
-
----
-
-## ⚙️ Backend Development
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi"/>
-
-</p>
-
----
-
-## 🗄️ Database
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase,firebase"/>
-
-</p>
-
----
-
-## 🤖 Artificial Intelligence & Machine Learning
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
-
-</p>
-
-### AI Technologies
-
-- Large Language Models (LLMs)
-- Retrieval Augmented Generation (RAG)
-- Prompt Engineering
-- OpenAI APIs
-- Google Gemini
-- OCR
-- OpenCV
-- NLP
-- Scikit-Learn
-- Pandas
-- NumPy
-- Matplotlib
-
----
-
-## ☁️ Cloud & Deployment
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=aws,gcp,vercel,netlify,render"/>
-
-</p>
-
----
-
-## 🛠 DevOps
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions"/>
-
-</p>
-
----
-
-## 🔧 Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma,canva"/>
-
-</p>
-
----
-
-# 📚 Coursework
-
-- Data Structures & Algorithms
-- Object Oriented Programming
-- Database Management Systems
-- Operating Systems
-- Computer Networks
-- Software Engineering
-- Artificial Intelligence
-- Machine Learning
-
----
-
-# 🌱 Currently Learning
-
-- System Design
-- Kubernetes
-- AWS Cloud
-- Microservices
-- CI/CD
-- Advanced MERN Architecture
-- Agentic AI
-- Multi-Agent Systems
-- LangChain
-- Vector Databases
-
----
-
-# 💡 Areas of Interest
-
-- Artificial Intelligence
-- Full Stack Development
-- Backend Engineering
-- Cloud Computing
-- Open Source
-- Software Architecture
-- System Design
-- DevOps
-- Problem Solving
-- Competitive Programming
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shubham-031&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-031&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-031&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shubham-031&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=shubham-031&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</div>
-
----
-
-# 🔥 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/shubham-031/shubham-031/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
-
-</div>
-
----
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/shubham-jadhav-7581692a9/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/shubham-031">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://shubham-portfolio-wheat-five.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-00C2FF?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/Shubham-031/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="mailto:shubhamajadhav200@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-# 👀 Profile Views
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=shubham-031&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-</div>
-
----
-
-# 💬 Developer Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ If you like my work, consider giving a star to my repositories.
-
-### 🚀 Always open to collaborating on Full Stack, AI & Open Source Projects.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:1E3A8A&height=120&section=footer"/>
-
-</div>
