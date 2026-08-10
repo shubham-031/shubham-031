@@ -451,41 +451,70 @@ Full-stack MERN ticketing system with interactive seat selection, QR-based e-tic
 
 <!-- ==================== GITHUB PROFILE DETAILS ==================== -->
 
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubham-031&theme=2077"
-  width="100%"
-  alt="GitHub Profile Details"
-/>
+<!-- ==================== GITHUB LANGUAGE & STATS ==================== -->
 
-<br/>
+<div align="center">
 
-<!-- ==================== GITHUB LANGUAGE & STATS CARDS ==================== -->
+<table>
+<tr>
+
+<!-- ==================== TOP LANGUAGES BY REPO ==================== -->
+
+<td width="50%" align="center">
 
 <img
   src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shubham-031&theme=2077"
-  height="180"
-  alt="Repositories per Language"
+  width="100%"
+  alt="Top Languages by Repository"
 />
+
+</td>
+
+<!-- ==================== TOP LANGUAGES BY COMMIT ==================== -->
+
+<td width="50%" align="center">
 
 <img
   src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shubham-031&theme=2077"
-  height="180"
-  alt="Most Commit Language"
+  width="100%"
+  alt="Top Languages by Commit"
 />
+
+</td>
+
+</tr>
+
+<tr>
+
+<!-- ==================== GITHUB STATS ==================== -->
+
+<td width="50%" align="center">
 
 <img
   src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shubham-031&theme=2077"
-  height="180"
+  width="100%"
   alt="GitHub Statistics"
 />
 
+</td>
+
+<!-- ==================== PRODUCTIVE TIME ==================== -->
+
+<td width="50%" align="center">
+
 <img
   src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shubham-031&theme=2077&utcOffset=5.5"
-  height="180"
+  width="100%"
   alt="Productive Time"
 />
 
-<br/>
+</td>
+
+</tr>
+</table>
+
+</div>
+
 <br/>
 
 <!-- ==================== GITHUB STREAK ==================== -->
