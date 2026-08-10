@@ -348,7 +348,7 @@ Full-stack MERN ticketing system with interactive seat selection, QR-based e-tic
 
 <img
   src="https://leetcard.jacoblin.cool/Shubham-031?theme=nord&font=JetBrains%20Mono&ext=contest&border=0&radius=16"
-  width="95%"
+  width="100%"
   alt="Shubham LeetCode Statistics"
 />
 
