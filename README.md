@@ -317,23 +317,13 @@ Full-stack **MERN ticketing system** with interactive seat selection, QR-based e
 
 <img
   src="https://streak-stats.demolab.com?user=shubham-031&theme=tokyonight-duo&hide_border=true&border_radius=12&ring=A78BFA&fire=FF6B6B&currStreakLabel=A78BFA"
-  width="95%"
+  width="100%"
   alt="GitHub Streak"
 />
 
 </td>
 
-<!-- GitHub Readme Stats -->
 
-<td width="50%" align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=shubham-031&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"
-  width="95%"
-  alt="GitHub Stats"
-/>
-
-</td>
 
 </tr>
 </table>
