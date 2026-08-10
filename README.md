@@ -18,7 +18,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-jadhav-7581692a9/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-2EA3F7?style=for-the-badge&logo=vercel&logoColor=white)](https://shubham-portfolio-wheat-five.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2EA3F7?style=for-the-badge&logo=vercel&logoColor=white)](https://shubham-portfolio-wheat-five.vercel.app/](https://shubham-portfolio2.vercel.app/))
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Shubham-031/)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubhamajadhav200@gmail.com)
 
@@ -30,16 +30,22 @@
 
 ### 👨‍💻 About Me
 
-I'm a **Software Engineer** and final-year **B.Tech (CSE – Artificial Intelligence)** student at **VIIT, Pune** (CGPA: **9.09**), passionate about building **production-ready, full-stack systems** with the **MERN stack** and integrating them with **LLM / RAG-powered AI workflows**.
+I'm a **Software Engineer** with strong foundations in **Data Structures & Algorithms (C++)** and hands-on experience building **production-ready full-stack applications** using the **MERN stack**.
 
-- 🔭 Currently building **AI-driven full-stack platforms** — financial advisory tools, placement-prep systems & enterprise dashboards
-- 🌱 Deepening my expertise in **LLMs, RAG pipelines, and scalable backend architecture**
-- 🏆 **1st Place Winner** – Kurukshetra National Hackathon (300+ teams) | Runner-Up – Webverse Hackathon | Top 5 – InnoHack 2.0
-- 📄 Published **IEEE Research Paper** — *Smart AgriTech with Machine Learning* (ICEI 2026, PICT Pune)
-- 💡 Solved **300+ DSA problems** on LeetCode using C++
-- 💬 Ask me about **React.js, Node.js, MongoDB, System Design, JWT/RBAC, and GenAI (LLM + RAG)**
-- ⚡ Fun fact: I turn Excel-driven manual workflows into real-time analytics dashboards!
+I specialize in developing **REST APIs, scalable backend systems, AI-powered workflows, authentication systems, and real-time analytics dashboards**, with a growing focus on **LLMs, RAG pipelines, and Generative AI**.
 
+- 🎓 **B.Tech – CSE (Artificial Intelligence)** | VIIT, Pune | **CGPA: 9.09**
+- 💻 **500+ LeetCode problems** solved using **C++**
+- 🚀 Built and deployed multiple **MERN stack applications**
+- 🤖 Developing applications using **LLM + RAG**
+- 🔐 Experienced in **JWT Authentication & RBAC**
+- 📊 Built **enterprise dashboards & workflow automation systems**
+- 🏆 **1st Place – Kurukshetra National Hackathon** | 300+ teams
+- 🥈 **Runner-Up – Webverse Hackathon**
+- 🏅 **Top 5 – InnoHack 2.0**
+- 📄 **IEEE Research Paper Published** — *Smart AgriTech with Machine Learning* (ICEI 2026, PICT Pune)
+- 💬 **Tech:** C++ · DSA · React.js · Node.js · Express.js · MongoDB · REST APIs · JWT · RBAC · LLM · RAG
+- 🎯 **Engineering Focus:** Building **scalable full-stack systems, AI-powered applications, and data-driven solutions** that deliver real-world impact.
 ---
 
 ### 🧰 Tech Stack
