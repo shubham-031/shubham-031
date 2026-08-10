@@ -1,4 +1,90 @@
+## 🚀 Featured Projects
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💰 Smart Financial Advisor Platform
+
+<a href="https://financial-advisior.vercel.app/" target="_blank">
+  <strong>🔗 Live Demo</strong>
+</a>
+
+AI-powered personal finance platform with **10+ features** including OCR receipt scanning, expense tracking, financial calculators, community forums, government-scheme discovery, and gamified financial literacy.
+
+Powered by **LLM + RAG** advisory chatbot, Google OAuth 2.0, and real-time **Socket.io** communication.
+
+**Tech Stack:**  
+`React.js` `Node.js` `MongoDB` `Socket.io` `LLM/RAG` `JWT`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎯 Placify — AI Placement Preparation Platform
+
+<a href="https://placify-one-self.vercel.app/" target="_blank">
+  <strong>🔗 Live Demo</strong>
+</a>
+
+Real-time **mock interview platform** for Technical, HR, and Behavioral rounds using **LLM + RAG** for contextual questions and instant feedback.
+
+Includes an **AI Career Roadmap Generator**, career-guidance chatbot, and **AI Resume Analyzer** for ATS scoring and keyword-gap analysis.
+
+**Tech Stack:**  
+`React.js` `Node.js` `MongoDB` `Socket.io` `LLM/RAG` `JWT`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 📊 Sales & NPD Management Platform
+
+<a href="https://sales-enquiry.vercel.app/" target="_blank">
+  <strong>🔗 Live Demo</strong>
+</a>
+
+Centralized **MERN platform serving 500+ users** for sales enquiry and NPD workflow tracking.
+
+Implemented **JWT-based RBAC for 5+ roles** along with automated Excel import/export, replacing manual spreadsheet-based processes.
+
+**Tech Stack:**  
+`React.js` `Node.js` `Express.js` `MongoDB` `JWT-RBAC`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎬 CineBook — Movie Ticket Booking & Theatre Management
+
+<a href="https://movie-booking-system-mern-fawn.vercel.app/" target="_blank">
+  <strong>🔗 Live Demo</strong>
+</a>
+
+Full-stack **MERN ticketing system** with interactive seat selection, QR-based e-tickets, PDF generation, snack/parking add-ons, and an admin dashboard with real-time revenue analytics.
+
+**Tech Stack:**  
+`React.js` `Node.js` `Express.js` `MongoDB Atlas` `Tailwind CSS`
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🌐 Explore More
+
+<p align="center">
+  <a href="https://shubham-portfolio2.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
+
+<p align="center">
+  <strong>✨ Explore all my projects, skills, experience and achievements on my portfolio.</strong>
+</p>
 <div>
 <h1 align="center">Hi 👋, I'm Shubham Jadhav</h1>
 <h3 align="center">A passionate full-stack web developer and AI enthusiast from Pune </h3>
