@@ -232,7 +232,7 @@ Full-stack MERN ticketing system with interactive seat selection, QR-based e-tic
 
 <div align="center">
 
-<a href="https://leetcode.com/u/yash-ladda/">
+<a href="https://leetcode.com/u/Shubham-031/">
   <img src="https://leetcard.jacoblin.cool/yash-ladda?theme=nord&font=JetBrains%20Mono&ext=contest&border=0&radius=16" alt="LeetCode Stats" />
 </a>
 
@@ -244,7 +244,106 @@ Full-stack MERN ticketing system with interactive seat selection, QR-based e-tic
 
 
 ---
+## 📊 GitHub Intelligence
 
+<div align="center">
+
+### 🔢 Stats Overview
+
+<img 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubham-031&theme=2077" 
+  width="100%" 
+  alt="Profile Details"
+/>
+
+<br/>
+
+<img 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shubham-031&theme=2077" 
+  height="180" 
+  alt="Repos per Language"
+/>
+
+<img 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shubham-031&theme=2077" 
+  height="180" 
+  alt="Most Commit Language"
+/>
+
+<img 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shubham-031&theme=2077" 
+  height="180" 
+  alt="GitHub Stats"
+/>
+
+<img 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shubham-031&theme=2077&utcOffset=5.5" 
+  height="180" 
+  alt="Productive Time"
+/>
+
+<br/><br/>
+
+### 🔥 Streak & Activity
+
+<img 
+  src="https://streak-stats.demolab.com?user=shubham-031&theme=tokyonight-duo&hide_border=true&border_radius=12&ring=A78BFA&fire=FF6B6B&currStreakLabel=A78BFA" 
+  alt="GitHub Streak" 
+  width="60%" 
+/>
+
+<br/><br/>
+
+<img 
+  height="180em" 
+  src="https://github-readmeapp.vercel.app/api?username=shubham-031&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&bg_color=0d0d2b&title_color=A78BFA&icon_color=A78BFA" 
+  alt="GitHub Stats"
+/>
+
+<br/><br/>
+
+### 🌊 Contribution Activity
+
+<a href="https://github.com/shubham-031">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=shubham-031&theme=tokyo-night&bg_color=0d0d2b&color=A78BFA&line=7C3AED&point=FF6B6B&hide_border=true&area=true&area_color=3D1F8C" 
+    alt="GitHub Activity Graph"
+    width="100%"
+  />
+</a>
+
+</div>
+
+<br/>
+
+<img 
+  src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" 
+  width="100%"
+/>
+
+---
+
+## 🧠 Competitive Programming
+
+<div align="center">
+
+<a href="https://leetcode.com/u/Shubham-031/">
+
+  <img 
+    src="https://leetcard.jacoblin.cool/Shubham-031?theme=nord&font=JetBrains%20Mono&ext=contest&border=0&radius=16" 
+    alt="LeetCode Stats"
+  />
+
+</a>
+
+</div>
+
+<br/>
+
+<img 
+  src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" 
+  width="100%"
+/>
 
 ### 📬 Let's Connect
 
