@@ -348,3 +348,109 @@ Full-stack MERN ticketing system with interactive seat selection, QR-based e-tic
 ⭐️ *Thanks for stopping by — always open to collaborating on AI-powered full-stack projects!*
 
 </div>
+
+<!-- ========================================================= -->
+<!--              📈 CONTRIBUTION ACTIVITY                    -->
+<!-- ========================================================= -->
+
+<h2 align="center">
+  🌊 Contribution Activity
+</h2>
+
+<p align="center">
+  <i>My coding activity and contribution journey</i>
+</p>
+
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/shubham-031">
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=shubham-031&theme=tokyo-night&bg_color=0d0d2b&color=A78BFA&line=7C3AED&point=FF6B6B&area=true&area_color=3D1F8C&hide_border=true&custom_title=Shubham's%20Contribution%20Activity"
+  width="100%"
+  alt="Shubham GitHub Contribution Activity"
+/>
+
+</a>
+
+</div>
+
+<br/>
+<br/>
+
+---
+
+<!-- ========================================================= -->
+<!--                    📬 LET'S CONNECT                       -->
+<!-- ========================================================= -->
+
+<h2 align="center">
+  📬 Let's Connect
+</h2>
+
+<p align="center">
+  <i>Feel free to connect with me and collaborate on interesting projects!</i>
+</p>
+
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/shubham-031">
+  <img
+    src="https://img.shields.io/badge/GitHub-Shubham--031-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
+  />
+</a>
+
+<a href="https://www.linkedin.com/in/shubham-jadhav-7581692a9/">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-Shubham%20Jadhav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
+</a>
+
+<a href="https://leetcode.com/u/Shubham-031/">
+  <img
+    src="https://img.shields.io/badge/LeetCode-Shubham--031-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
+    alt="LeetCode"
+  />
+</a>
+
+<a href="mailto:shubhamajadhav200@gmail.com">
+  <img
+    src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Email"
+  />
+</a>
+
+</div>
+
+<br/>
+<br/>
+
+<!-- ========================================================= -->
+<!--                       FOOTER                              -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+<img
+  src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"
+  width="100%"
+  alt="Animated Divider"
+/>
+
+<br/>
+<br/>
+
+⭐️ <i>Thanks for stopping by — always open to collaborating on AI-powered full-stack projects!</i>
+
+<br/>
+<br/>
+
+<b>🚀 Keep Building • Keep Learning • Keep Growing 🚀</b>
+
+</div>
