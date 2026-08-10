@@ -446,6 +446,113 @@ Full-stack MERN ticketing system with interactive seat selection, QR-based e-tic
   width="100%"
   alt="Divider"
 />
+
+<div align="center">
+
+<!-- ==================== GITHUB PROFILE DETAILS ==================== -->
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubham-031&theme=2077"
+  width="100%"
+  alt="GitHub Profile Details"
+/>
+
+<br/>
+
+<!-- ==================== GITHUB LANGUAGE & STATS CARDS ==================== -->
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shubham-031&theme=2077"
+  height="180"
+  alt="Repositories per Language"
+/>
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shubham-031&theme=2077"
+  height="180"
+  alt="Most Commit Language"
+/>
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shubham-031&theme=2077"
+  height="180"
+  alt="GitHub Statistics"
+/>
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shubham-031&theme=2077&utcOffset=5.5"
+  height="180"
+  alt="Productive Time"
+/>
+
+<br/>
+<br/>
+
+<!-- ==================== GITHUB STREAK ==================== -->
+
+<img
+  src="https://streak-stats.demolab.com?user=shubham-031&theme=tokyonight-duo&hide_border=true&border_radius=12&ring=A78BFA&fire=FF6B6B&currStreakLabel=A78BFA"
+  alt="GitHub Streak"
+  width="60%"
+/>
+
+<br/>
+<br/>
+
+<!-- ==================== GITHUB STATS ==================== -->
+
+<img
+  height="180"
+  src="https://github-readmeapp.vercel.app/api?username=shubham-031&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&bg_color=0d0d2b&title_color=A78BFA&icon_color=A78BFA"
+  alt="GitHub Stats"
+/>
+
+<br/>
+<br/>
+
+<!-- ==================== LEETCODE ==================== -->
+
+<h2>🧠 LeetCode Statistics</h2>
+
+<a href="https://leetcode.com/u/Shubham-031/">
+
+  <img
+    src="https://leetcard.jacoblin.cool/Shubham-031?theme=nord&font=JetBrains%20Mono&ext=contest&border=0&radius=16"
+    alt="LeetCode Statistics"
+  />
+
+</a>
+
+<br/>
+<br/>
+
+<!-- ==================== PROFILE LINKS ==================== -->
+
+<a href="https://github.com/shubham-031">
+  <img
+    src="https://img.shields.io/badge/GitHub-Shubham--031-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
+  />
+</a>
+
+<a href="https://leetcode.com/u/Shubham-031/">
+  <img
+    src="https://img.shields.io/badge/LeetCode-Shubham--031-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
+    alt="LeetCode"
+  />
+</a>
+
+</div>
+
+<br/>
+
+<!-- ==================== DIVIDER ==================== -->
+
+<img
+  src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"
+  width="100%"
+  alt="Divider"
+/>
 ### 📬 Let's Connect
 
 <div align="center">
