@@ -243,46 +243,66 @@ Full-stack MERN ticketing system with interactive seat selection, QR-based e-tic
 
 
 
----
 ## 📊 GitHub Intelligence
 
 <div align="center">
 
-### 🔢 Stats Overview
-
+<!-- Profile Details -->
 <img 
   src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubham-031&theme=2077" 
   width="100%" 
-  alt="Profile Details"
+  alt="GitHub Profile Details"
 />
 
-<br/>
+<br/><br/>
 
+<!-- Row 1 -->
 <img 
   src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shubham-031&theme=2077" 
-  height="180" 
-  alt="Repos per Language"
+  width="48%" 
+  alt="Top Languages by Repository"
 />
 
 <img 
   src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shubham-031&theme=2077" 
-  height="180" 
-  alt="Most Commit Language"
+  width="48%" 
+  alt="Top Languages by Commit"
 />
 
+<br/><br/>
+
+<!-- Row 2 -->
 <img 
   src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shubham-031&theme=2077" 
-  height="180" 
+  width="48%" 
   alt="GitHub Stats"
 />
 
 <img 
   src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shubham-031&theme=2077&utcOffset=5.5" 
-  height="180" 
+  width="48%" 
   alt="Productive Time"
 />
 
 <br/><br/>
+
+<!-- GitHub Streak -->
+<img 
+  src="https://streak-stats.demolab.com?user=shubham-031&theme=tokyonight-duo&hide_border=true&border_radius=12&ring=A78BFA&fire=FF6B6B&currStreakLabel=A78BFA" 
+  width="65%" 
+  alt="GitHub Streak"
+/>
+
+<br/><br/>
+
+<!-- Activity Graph -->
+<img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=shubham-031&theme=tokyo-night&bg_color=0d0d2b&color=A78BFA&line=7C3AED&point=FF6B6B&hide_border=true&area=true&area_color=3D1F8C" 
+  width="100%" 
+  alt="GitHub Activity Graph"
+/>
+
+</div>
 
 ### 🔥 Streak & Activity
 
