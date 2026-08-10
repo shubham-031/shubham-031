@@ -167,119 +167,6 @@ Full-stack MERN ticketing system with interactive seat selection, QR-based e-tic
 
 ---
 
-### 📊 GitHub Stats
-
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=shubham-031&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-031&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-031&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-</div>
-
----
-
-
-<!-- ==================== GITHUB PROFILE DETAILS ==================== -->
-
-<!-- ==================== GITHUB LANGUAGE & STATS ==================== -->
-
-<div align="center">
-
-<table>
-<tr>
-
-<!-- ==================== TOP LANGUAGES BY REPO ==================== -->
-
-<td width="50%" align="center">
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shubham-031&theme=2077"
-  width="100%"
-  alt="Top Languages by Repository"
-/>
-
-</td>
-
-<!-- ==================== TOP LANGUAGES BY COMMIT ==================== -->
-
-<td width="50%" align="center">
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shubham-031&theme=2077"
-  width="100%"
-  alt="Top Languages by Commit"
-/>
-
-</td>
-
-</tr>
-
-<tr>
-
-<!-- ==================== GITHUB STATS ==================== -->
-
-<td width="50%" align="center">
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shubham-031&theme=2077"
-  width="100%"
-  alt="GitHub Statistics"
-/>
-
-</td>
-
-<!-- ==================== PRODUCTIVE TIME ==================== -->
-
-<td width="50%" align="center">
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shubham-031&theme=2077&utcOffset=5.5"
-  width="100%"
-  alt="Productive Time"
-/>
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-<!-- ==================== GITHUB STREAK ==================== -->
-
-<img
-  src="https://streak-stats.demolab.com?user=shubham-031&theme=tokyonight-duo&hide_border=true&border_radius=12&ring=A78BFA&fire=FF6B6B&currStreakLabel=A78BFA"
-  alt="GitHub Streak"
-  width="60%"
-/>
-
-<br/>
-<br/>
-
-<!-- ==================== GITHUB STATS ==================== -->
-
-<img
-  height="180"
-  src="https://github-readmeapp.vercel.app/api?username=shubham-031&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&bg_color=0d0d2b&title_color=A78BFA&icon_color=A78BFA"
-  alt="GitHub Stats"
-/>
-
-<br/>
-<br/>
 
 <!-- ========================================================= -->
 <!--                  🚀 GITHUB ANALYTICS                     -->
@@ -441,25 +328,7 @@ Full-stack MERN ticketing system with interactive seat selection, QR-based e-tic
 
 </div>
 
-<!-- ========================================================= -->
-<!--                    🐍 CONTRIBUTION SNAKE                 -->
-<!-- ========================================================= -->
 
-<div align="center">
-
-<h2>🐍 Contribution Snake</h2>
-
-<br/>
-
-<img
-  src="https://raw.githubusercontent.com/shubham-031/shubham-031/output/github-contribution-grid-snake-dark.svg"
-  width="100%"
-  alt="GitHub Contribution Snake"
-/>
-
-</div>
-
-<br/>
 
 <!-- ========================================================= -->
 <!--                  🧠 LEETCODE                            -->
@@ -479,7 +348,7 @@ Full-stack MERN ticketing system with interactive seat selection, QR-based e-tic
 
 <img
   src="https://leetcard.jacoblin.cool/Shubham-031?theme=nord&font=JetBrains%20Mono&ext=contest&border=0&radius=16"
-  width="75%"
+  width="95%"
   alt="Shubham LeetCode Statistics"
 />
 
@@ -516,20 +385,6 @@ Full-stack MERN ticketing system with interactive seat selection, QR-based e-tic
 
 </div>
 
-
-### 📬 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-jadhav-7581692a9/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-2EA3F7?style=for-the-badge&logo=vercel&logoColor=white)](https://shubham-portfolio-wheat-five.vercel.app/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Shubham-031/)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubhamajadhav200@gmail.com)
-[![Phone](https://img.shields.io/badge/+91_8999207096-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918999207096)
-
-⭐️ *Thanks for stopping by — always open to collaborating on AI-powered full-stack projects!*
-
-</div>
 
 
 <!-- ========================================================= -->
