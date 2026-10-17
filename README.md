@@ -497,10 +497,13 @@ Full-stack **MERN ticketing system** with interactive seat selection, QR-based e
 
 ⭐️ <i>Thanks for stopping by — always open to collaborating on AI-powered full-stack projects!</i>
 
-<div align="center">
+![Profile Views](https://komarev.com/ghpvc/?username=Shubham-031&label=Profile%20Views&color=00D9FF&style=for-the-badge)
 
-<!-- Animated Header with Gradient -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6,7&height=300&section=header&text=SHUBHAM%20%JADHAV&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Engineer%20%7C%20Open%20Source%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6,7&height=150&section=footer" width="100%"/>
+
+<sub>⭐️ From [Shubham-031](https://github.com/Shubham-031) with 💙 • Last Updated: January 2026</sub>
 
 </div>
 
