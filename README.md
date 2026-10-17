@@ -379,25 +379,6 @@ Full-stack **MERN ticketing system** with interactive seat selection, QR-based e
 </div> -->
 
 
-<h2>🌊 Contribution Activity</h2>
-
-<p>
-  <i>My GitHub contribution journey</i>
-</p>
-
-<br/>
-
-<a href="https://github.com/shubham-031">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=shubham-031&theme=tokyo-night&bg_color=0d0d2b&color=A78BFA&line=7C3AED&point=FF6B6B&hide_border=true&area=true&area_color=3D1F8C&custom_title=Shubham%27s%20Contribution%20Activity"
-    width="100%"
-    alt="Shubham's GitHub Contribution Activity"
-  />
-</a>
-
-<br/>
-<br/>
-
 
 <!-- ========================================================= -->
 <!--                  🧠 LEETCODE                            -->
