@@ -1,4 +1,12 @@
+<div align="center">
 
+<!-- Animated Header with Gradient -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6,7&height=300&section=header&text=SHUBHAM%20R%JADHAV&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Engineer%20%7C%20Open%20Source%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+
+</div>
+
+<div align="center">
+  
 <div>
 <h1 align="center">Hi 👋, I'm Shubham Jadhav</h1>
 <h3 align="center">A passionate full-stack web developer and AI enthusiast from Pune </h3>
@@ -488,6 +496,15 @@ Full-stack **MERN ticketing system** with interactive seat selection, QR-based e
 <br/>
 
 ⭐️ <i>Thanks for stopping by — always open to collaborating on AI-powered full-stack projects!</i>
+
+<div align="center">
+
+<!-- Animated Header with Gradient -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6,7&height=300&section=header&text=SHUBHAM%20R%JADHAV&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Engineer%20%7C%20Open%20Source%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+
+</div>
+
+<div align="center">
 
 <br/>
 <br/>
